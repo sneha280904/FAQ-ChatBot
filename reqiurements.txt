@@ -1,0 +1,11 @@
+scikit-learn
+numpy
+pandas
+streamlit
+langchain
+matplotlib
+python-dotenv
+OpenAI
+sentencepiece
+transformer
+flask
